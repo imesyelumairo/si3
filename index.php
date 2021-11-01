@@ -31,12 +31,12 @@
       <div class="container-fluid">
         <div class="mb-2 row">
           <div class="col-sm-6">
-            <h1 class="m-0 text-dark">Judul Halaman</h1>
+            <h1 class="m-0 text-dark">WEBSITE KELURAHAN SANTIAGO</h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">PNU</a></li>
-              <li class="breadcrumb-item active">SI</li>
+              <li class="breadcrumb-item"><a href="#">2020</a></li>
+              <li class="breadcrumb-item active">2021</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
@@ -51,7 +51,7 @@
           <div class="col-md-12">
             <div class="card">
               <div class="border-0 card-header">
-                <h3 class="card-title">Judul Card</h3>
+                <h3 class="card-title">Lokakarya Mahasiswa KKL Website Sederhana</h3>
                 <div class="card-tools">
                   <a href="#" class="btn btn-tool btn-sm">
                     <i class="fas fa-download"></i>
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="card-body">
-               <h1>INDX 2 : Selamat Datang di Aplikasi Web Imesye Lumairo</h1>
+               <h1>Selamat Datang di Website Kelurahan Santiago</h1>
               </div>
             </div>
             <!-- /.card -->

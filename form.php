@@ -41,8 +41,8 @@
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">PNU</a></li>
-              <li class="breadcrumb-item active">SI</li>
+              <li class="breadcrumb-item"><a href="#">2020</a></li>
+              <li class="breadcrumb-item active">2021</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
@@ -63,7 +63,7 @@
               </div>
               <div class="card-body">
                   <div class="form-group">
-                    <label for="user_email">User eMail</label>
+                    <label for="user_email">User E-Mail</label>
                     <input type="email" class="form-control" name="user_email" id="user_email" placeholder="Masukan Email Anda">
                   </div>
                   <div class="form-group">
@@ -71,7 +71,15 @@
                     <input type="password" class="form-control" name="user_password" id="user_password" placeholder="Password">
                   </div>
                   <div class="form-group">
-                    <label for="user_nama">Nama Lengkap</label>
+                    <label for="user_nama">NIP</label>
+                    <input type="text" class="form-control" name="user_nama" id="user_nama" placeholder="Nama Lengkap">
+                  </div>
+                  <div class="form-group">
+                    <label for="user_nama">Nama</label>
+                    <input type="text" class="form-control" name="user_nama" id="user_nama" placeholder="Nama Lengkap">
+                  </div>
+                  <div class="form-group">
+                    <label for="user_nama">Jabatan</label>
                     <input type="text" class="form-control" name="user_nama" id="user_nama" placeholder="Nama Lengkap">
                   </div>
                   <!-- radio -->
@@ -86,15 +94,6 @@
                           <label class="form-check-label">Pria</label>
                         </div>
                   </div>
-                  <div class="form-group">
-                    <label for="user_prodi">Program Studi</label>
-                    <select class="form-control" name="user_prodi" name="user_prodi" id="user_prodi" placeholder="Pilih Program Studi">
-                      <option value="01">Keperawatan</option>
-                      <option value="02">Teknologi Penangkapan Ikan</option>
-                      <option value="03">Teknologi Pengolahan Hasil Laut</option>
-                      <option value="04">Teknologi Budidaya Ikan</option>
-                      <option value="05">Sistem Informasi</option>
-                    </select>
                   </div>
                   <div class="form-group">
                     <label for="file_foto">Foto</label>

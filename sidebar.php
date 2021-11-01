@@ -2,7 +2,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
-      <span class="brand-text font-weight-light">SI <b>Admin</b></span>
+      <span class="brand-text font-weight-light"> <b>MENU</b></span>
     </a>
 
     <!-- Sidebar -->
@@ -22,28 +22,25 @@
           </li>
           <li class="nav-item ">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-edit"></i>
-                Forms
+              <i class="nav-icon fas fa-child"></i>
+                Profil
             </a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-table"></i>
-                Tables
+              <i class="nav-icon fas fa-university"></i>
+              Pemerintahan
             </a>
           </li>
           <li class="nav-item ">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-address-card"></i>
-                Card
             </a>
           </li>
           <li class="nav-header">CONTOH</li>
           <li class="nav-item">
             <a href="list.php" class="nav-link">
-              <i class="nav-icon fas fa-university"></i>
+              <i class="nav-icon fas fa-list"></i>
               <p>
-                List Data Mahasiswa
+                List Data Pegawai
               </p>
             </a>
           </li>
@@ -51,75 +48,9 @@
             <a href="form.php" class="nav-link">
               <i class="nav-icon fas fa-user-graduate"></i>
               <p>
-                Olah Data Mahasiswa
+                Olah Data Pegawai
               </p>
             </a>
-          </li>
-          <li class="nav-header">CONTOH MULTI LEVEL</li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="fas fa-circle nav-icon"></i>
-              <p>Level 1</p>
-            </a>
-          </li>
-          <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-circle"></i>
-              <p>
-                Level 1
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Level 2</p>
-                </a>
-              </li>
-              <li class="nav-item has-treeview">
-                <a href="#" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>
-                    Level 2
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="#" class="nav-link">
-                      <i class="far fa-dot-circle nav-icon"></i>
-                      <p>Level 3</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#" class="nav-link">
-                      <i class="far fa-dot-circle nav-icon"></i>
-                      <p>Level 3</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#" class="nav-link">
-                      <i class="far fa-dot-circle nav-icon"></i>
-                      <p>Level 3</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Level 2</p>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="fas fa-circle nav-icon"></i>
-              <p>Level 1</p>
-            </a>
-          </li>
           <li class="nav-header">CONTOH WARNA LABELS</li>
           <li class="nav-item">
             <a href="#" class="nav-link">
